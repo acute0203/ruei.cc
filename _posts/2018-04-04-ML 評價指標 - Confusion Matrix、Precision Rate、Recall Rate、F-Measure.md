@@ -6,6 +6,7 @@ categories: Data Mining
 tags: [Data Mining, Data Science, A.I.]
 
 ---
+<!--more-->
 |     預測\真實     | 真實為正       | 真實為負       |
 | :-------------: |:-------------:| :-----:|
 | 預測為正      | True Positive(TP) | False Positive(FP) |

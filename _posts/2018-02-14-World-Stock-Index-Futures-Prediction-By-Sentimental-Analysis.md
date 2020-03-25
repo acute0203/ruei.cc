@@ -6,7 +6,7 @@ tags: [Data Science,Python,A.I.,Hadoop,Spark,R,MLib,Scala.PDF]
 categories: Data Mining
 ---
 2014年底於資策會做的期末結業專案，以情態分數預測股價指數及期貨。使用Hadoop及Spark做為分析平台，採隱馬可夫模型、維特比演算法、貝式分類器及卡方檢定(Chi-Square Test)做為分析方法。詳細內容於簡報中介紹。
-
+<!--more-->
 [PDF Download](/assets/2018-02-14-World-Stock-Index-Futures-Prediction-By-Sentimental-Analysis/Project_G2_1028mac.pdf)
 
 專案內容請參考：[GitHub](https://github.com/acute0203/iiiFinalProject)

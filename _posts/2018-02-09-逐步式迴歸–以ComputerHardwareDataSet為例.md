@@ -6,5 +6,5 @@ categories: [Data Mining]
 tags: [Data Science,SPSS,PDF]
 ---
 逐步迴歸基本介紹與應用。
-
+<!--more-->
 [PDF Download](/assets/2018-02-09-逐步式迴歸–以ComputerHardwareDataSet為例/逐步式迴歸–以ComputerHardwareDataSet為例.pdf)

@@ -6,7 +6,7 @@ categories: Deep Learning
 tags: [Data Science,Deep Learning,A.I.,PDF]
 ---
 Hadoop和CNN運用，透過監視器分析影像資料。
-
+<!--more-->
 [PDF Download](/assets/2018-02-09-A-Deep-Intelligence-Framework-for-Online-Video-Processing/A-Deep-Intelligence-Framework-for-Online-Video-Processing.pdf)
 
 Reference:

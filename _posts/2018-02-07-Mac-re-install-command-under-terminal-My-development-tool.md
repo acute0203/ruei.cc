@@ -5,6 +5,7 @@ date: 2018-02-07 13:00:06
 categories: I.T.
 tags: [I.T.]
 ---
+<!--more-->
 ```console
 #install brew. check https://brew.sh/
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

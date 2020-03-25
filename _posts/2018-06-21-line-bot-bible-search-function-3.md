@@ -3,13 +3,12 @@ layout: post
 title: line bot bible search function-3
 date: 2018-06-21 19:44:37
 tags:
-excerpt_separator: <!--more-->
 ---
 關於聖經之縮寫參考： post_link bible-abbrev 點擊這裡查看這篇文章
 使用說明：
 目前僅開放 "AND" 及 "OR" 功能。
 使用方法：「查 關鍵字1 關鍵字2&關鍵字3」
-
+<!--more-->
 AND 使用符號：「&」
 OR使用符號：「 」<-沒有忘記輸入，就是一個空白
 使用說明：
