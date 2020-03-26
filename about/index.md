@@ -101,40 +101,41 @@ Nimbus is a cloud computing system, which helps the enterprise monitor the emplo
 <span>・產業分析師資格認證班 / Industrial Technology Research Institute</span>
 <span>Aug. 2017</span>
 </div>
+
 <center><h1>Certificate</h1></center>
 <hr>
 ### Information
 <div style="justify-content: space-between;display: flex;">
-<span>・EPC Certified Internet of Things Expert / EPCglobal, Inc.</span>
+<span>・<a href="https://www.gs1tw.org/twct/en/certif.jsp">EPC Certified Internet of Things Expert / EPCglobal, Inc.</a></span>
 <span>Nov. 2015</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・Oracle Certified Professional, Java SE 6 Programmer / Oracle</span>
+<span>・<a href="https://en.wikipedia.org/wiki/Oracle_Certification_Program">Oracle Certified Professional, Java SE 6 Programmer / Oracle</a></span>
 <span>Dec. 2012</span>
 </div>
 ### Finance
 <div style="justify-content: space-between;display: flex;">
-<span>・Industry analyst / Asia Pacific Industrial Analysis Association</span>
+<span>・<a href="http://www.apiaa.org.tw/information.php?pid=9&sid=5">Industry analyst / Asia Pacific Industrial Analysis Association</a></span>
 <span>Aug. 2017</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・證券商(高級)業務員 / 財團法人中華民國證券暨期貨市場發展基金會</span>
+<span>・<a href="http://www.sfi.org.tw/exam/exam1/exam1-1/exam1-6/exam1-6-1">證券商(高級)業務員 / 財團法人中華民國證券暨期貨市場發展基金會</a></span>
 <span>Jul. 2009</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・期貨商業務員 / 財團法人中華民國證券暨期貨市場發展基金會</span>
+<span>・<a href="http://www.sfi.org.tw/exam/exam1/exam1-1/exam1-6/exam1-6-3">期貨商業務員 / 財團法人中華民國證券暨期貨市場發展基金會</a></span>
 <span>Oct. 2008</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・證券商業務員 / 財團法人中華民國證券暨期貨市場發展基金會</span>
+<span>・<a href="http://www.sfi.org.tw/exam/exam1/exam1-1/exam1-6/exam1-6-1">證券商業務員 / 財團法人中華民國證券暨期貨市場發展基金會</a></span>
 <span>Apr. 2008</span>
 </div>
 ### Others
 <div style="justify-content: space-between;display: flex;">
-<span>・傳統弓術C級教練 / 中華國術協會</span>
+<span>・<a href="https://www.facebook.com/groups/219690655032977/">傳統弓術C級教練 / 中華國術協會</a></span>
 <span>Jan. 2020</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・Open Water Diver / PADI</span>
+<span>・<a href="https://www.padi.com/courses/open-water-diver?lang=en">Open Water Diver / PADI</a></span>
 <span>Oct. 2019</span>
 </div>
