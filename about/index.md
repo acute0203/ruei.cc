@@ -116,6 +116,10 @@ Nimbus is a cloud computing system, which helps the enterprise monitor the emplo
 <hr>
 ### Information
 <div style="justify-content: space-between;display: flex;">
+<span>・<a href="https://support.google.com/google-ads/answer/9702955?hl=en">Google Ads certification / Google</a></span>
+<span>Jun. 2018</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
 <span>・<a href="https://www.gs1tw.org/twct/en/certif.jsp">EPC Certified Internet of Things Expert / EPCglobal, Inc.</a></span>
 <span>Nov. 2015</span>
 </div>
