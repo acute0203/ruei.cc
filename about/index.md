@@ -7,6 +7,16 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
+<span><b>B of D in Investment Corp.</b></span><span>Oct. 2017 - now.</span>
+</div>
+</h2>
+1. Helped startup&SMB to find IT solutions.
+2. IT industry research & report.
+3. Worked with clients on strategy, planning and problem-solving.
+4. Communicating with stockholders.
+5. Financial reports analysis.
+<h2>
+<div style="justify-content: space-between;display: flex;">
 <span><b>Technical Cofounder</b></span><span>Jan. 2018 - April. 2019</span>
 </div>
 </h2>
