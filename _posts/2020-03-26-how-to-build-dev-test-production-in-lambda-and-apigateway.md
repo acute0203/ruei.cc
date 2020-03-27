@@ -24,17 +24,15 @@ test連結到新創版號
 創建結果
 ![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/5-Lambda-alias setting-result.png)
 
-進到該LambdaAPI Gateway，並點選Integration Request
-![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/6-APIGateway-page.png)
-
 創建test stage
 ![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/7-APIGateway-create-new-stage.png)
 
 test stage Variable下創建key為lambdaAlias,value為 test
 ![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/8-APIGateway-stageVariable-setting.png)
 
+進到該LambdaAPI Gateway，並點選Integration Request
+![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/6-APIGateway-page.png)
 
-回到resource頁針對rest中的存取方法點擊Integration Request
 ![](/assets/2020-03-26-how-to-build-dev-test-production-in-lambda-and-apigateway/9-APIGateway-IR-Page.png)
 
 修改Lambda Function名稱為function Name:${stageVariables.lambdaAlias}
