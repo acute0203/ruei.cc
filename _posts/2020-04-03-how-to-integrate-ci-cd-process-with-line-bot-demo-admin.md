@@ -10,9 +10,16 @@ tags: [A.W.S,I.T.,CI/CD]
 本篇是以Admin角色的Line功能視窗作為Demo，其他尚有Dev、Test角色請查閱其他文章。
 
 <!--more-->
+
+Demo篇
+
 [如何使用Line Bot整合CI/CD流程 - dev Demo]({% post_url 2020-04-01-how-to-integrate-ci-cd-process-with-line-bot-demo-dev %})
 
 [如何使用Line Bot整合CI/CD流程 - Test Demo]({% post_url 2020-04-02-how-to-integrate-ci-cd-process-with-line-bot-demo-tester %})
+
+開發篇
+
+[如何使用Line Bot整合CI/CD流程 - 開發篇 Message API]({% post_url 2020-04-04-how-to-integrate-ci-cd-process-with-line-bot-dev-lambda %})
 
 <hr>
 

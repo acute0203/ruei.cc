@@ -10,9 +10,17 @@ tags: [A.W.S,I.T.,CI/CD]
 本篇是以Dev角色的Line功能視窗作為Demo，其他尚有Admin、Test角色請查閱其他文章。
 
 <!--more-->
+
+DEMO篇
+
 [如何使用Line Bot整合CI/CD流程 - Test Demo]({% post_url 2020-04-02-how-to-integrate-ci-cd-process-with-line-bot-demo-tester %})
 
 [如何使用Line Bot整合CI/CD流程 - Admin Demo]({% post_url 2020-04-03-how-to-integrate-ci-cd-process-with-line-bot-demo-admin %})
+
+開發篇
+
+[如何使用Line Bot整合CI/CD流程 - 開發篇 Message API]({% post_url 2020-04-04-how-to-integrate-ci-cd-process-with-line-bot-dev-lambda %})
+
 <hr>
 
 點選開發/測試佈署清單，可以查看目前Dev->Test可行的佈署，開發人員僅可將開發的Function佈署到測試環境
