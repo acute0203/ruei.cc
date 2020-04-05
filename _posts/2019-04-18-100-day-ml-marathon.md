@@ -2,7 +2,7 @@
 layout: post
 title: 機器學習 百日馬拉松
 date: 2019-04-18 19:44:37
-tags: [Data Mining, Data Science, A.I.]
+tags: [Data Mining, Data Science, A.I.,Deep Learning]
 ---
 本篇為紀錄參與百日馬拉松的主題及內容整理。
 
