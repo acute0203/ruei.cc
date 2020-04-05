@@ -5,11 +5,9 @@ categories: [I.T.]
 date: 2020-04-05 00:00:00
 tags: [A.W.S,I.T.,CI/CD]
 ---
-最近在為公司導入CI/CD流程，需要建構開發、測試、正式環境滿足業務需求，由於公司運行的架構採用的是A.W.S的Lambda Serverless環境運行，開發人員首先利用A.W.S Lambda開發環境進行線上開發，當開發人員開發完成，使用Postman透過A.W.S. API Gateway做測試，完成後便發行新的Lambda版本，使用Lambda的Alias Name分別劃分開發、測試、正式環境，並對版本產生連結。在這樣的情境下，當發行新Lambda版本或更新，若牽涉到的Lambda Function數過多，往往造成部署上的麻煩，因此開發Line Bot將佈署整合程序寫入Lambda，透過呼叫Lambda Function使用Line Bot做控制，針對開發過程中所涉及的角色功能做權限上的劃分。
+本篇是查詢Lambda Function版本功能作為本篇介紹，關於本系列其他介紹請查看下列文章。
 
 <!--more-->
-
-本篇是查詢Lambda Function版本功能作為本篇介紹，關於本系列其他介紹請查看下列文章。
 
 Demo篇
 
