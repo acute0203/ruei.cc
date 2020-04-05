@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何使用Line Bot整合CI/CD流程 - 總覧
+title: 如何使用Line Bot整合CI/CD流程 - Overview
 categories: [I.T.]
 date: 2020-04-09 00:00:00
 tags: [A.W.S,I.T.,CI/CD, Line Messaging API]
