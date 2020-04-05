@@ -29,6 +29,10 @@ Line篇
 
 [如何使用Line Bot整合CI/CD流程 - Line篇 介面設定]({% post_url 2020-04-07-how-to-integrate-ci-cd-process-with-line-bot-line-interface %})
 
+資料庫篇
+
+[如何使用Line Bot整合CI/CD流程 - 資料庫]({% post_url 2020-04-08-how-to-integrate-ci-cd-process-with-line-bot-database %})
+
 <hr>
 
 本篇所提供的Lambda Function Code主要做為Message API的對接，其主要功能為部署所提供的Function資訊對該Function做部署，而部署方式可分為三種，第一種為將開發環境的程式碼部署到測試環境，由於開發環境與測試環境的差異，開發環境使用的程式碼為較新的程式碼，可以發佈新的版本，關於這樣的設置，值得注意的有兩點，第一點是經由發佈後的新版本，新版本的程式碼無法做變更，第二點是因應第一點而生，因此需要將相關的組態設定作為環境變數帶入不同的環境，必須說這樣的設計方式是正確且值得讚賞的，因為沒有道理說因為不同的環境而對程式碼做不同的變更。

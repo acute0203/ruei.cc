@@ -29,6 +29,10 @@ Line篇
 
 [如何使用Line Bot整合CI/CD流程 - Line篇 介面設定]({% post_url 2020-04-07-how-to-integrate-ci-cd-process-with-line-bot-line-interface %})
 
+資料庫篇
+
+[如何使用Line Bot整合CI/CD流程 - 資料庫]({% post_url 2020-04-08-how-to-integrate-ci-cd-process-with-line-bot-database %})
+
 <hr>
 
 本篇所提供的Lambda Function Code主要做為Message API的對接，其主要功能為查詢目標地區的Lambda Function程式碼經過Hash計算後，有哪些是不同的，因為相同的Hash Code背後隱含的是該程式碼已經經過部署，並且經過部署後，被部署的環境和部署環境並沒有差異，反之則是被部署的環境和部署環境有差異，因此需要重新部署，舉個簡單的例子來看，假設我們要將開發環境的程式碼部署到測試環境，要部署的原因是因為開發環境有新的程式碼版本所以才需要經過測試人員檢測，因此開發環境新的程式碼和測試環境的程式碼一定會不同，進而經過Hash運算後，而有不同的結果，因此我們可以得知，當兩個程式碼Hash結果若不同，則一定有新的版本需要新的部署。

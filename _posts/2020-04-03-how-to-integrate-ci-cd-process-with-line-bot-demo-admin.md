@@ -29,6 +29,10 @@ Line篇
 
 [如何使用Line Bot整合CI/CD流程 - Line篇 介面設定]({% post_url 2020-04-07-how-to-integrate-ci-cd-process-with-line-bot-line-interface %})
 
+資料庫篇
+
+[如何使用Line Bot整合CI/CD流程 - 資料庫]({% post_url 2020-04-08-how-to-integrate-ci-cd-process-with-line-bot-database %})
+
 <hr>
 
 點選環境佈署清單，可以點選目前要查看Dev->Test或Test->Production可行的佈署，以本文為例查看Dev->Test
