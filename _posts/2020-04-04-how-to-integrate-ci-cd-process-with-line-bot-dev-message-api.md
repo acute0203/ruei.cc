@@ -25,6 +25,10 @@ Demo篇
 
 [如何使用Line Bot整合CI/CD流程 - 開發篇 部署環境]({% post_url 2020-04-06-how-to-integrate-ci-cd-process-with-line-bot-dev-deploy-stage %})
 
+Line篇
+
+[如何使用Line Bot整合CI/CD流程 - Line篇 介面設定]({% post_url 2020-04-07-how-to-integrate-ci-cd-process-with-line-bot-line-interface %})
+
 <hr>
 
 本篇所提供的Lambda Function Code主要做為Line Message API對接的API（以下皆稱Message API），當Line聊天室機器人收到任何一則文字訊息或Post Back訊息，Line聊天室機器人會將相關資訊傳遞到這個Message API做處理。在本次專案實驗過程中，這隻Message API如若接到關於CI/CD相關命令，則會呼叫相對應的CI/CD Lambda Function，以收到要檢測Lambda版本的命令為例，則會呼叫GETSTAGEDIFFLISTARN該隻ARN的CI/CD Lambda Function做處理，待該CI/CD Lambda Function處理完成後，便會回傳到本隻Message API，並且回傳使用者所需要的資訊到使用者的Line上。

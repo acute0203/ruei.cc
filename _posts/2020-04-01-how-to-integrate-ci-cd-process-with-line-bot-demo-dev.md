@@ -25,6 +25,10 @@ DEMO篇
 
 [如何使用Line Bot整合CI/CD流程 - 開發篇 部署環境]({% post_url 2020-04-06-how-to-integrate-ci-cd-process-with-line-bot-dev-deploy-stage %})
 
+Line篇
+
+[如何使用Line Bot整合CI/CD流程 - Line篇 介面設定]({% post_url 2020-04-07-how-to-integrate-ci-cd-process-with-line-bot-line-interface %})
+
 <hr>
 
 點選開發/測試佈署清單，可以查看目前Dev->Test可行的佈署，開發人員僅可將開發的Function佈署到測試環境
