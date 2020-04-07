@@ -75,8 +75,16 @@ def lambda_handler(event, context):
             targetConfiguration:str = client.get_function(FunctionName=fName,Qualifier=fQualifier[1])["Configuration"]
              #取得部署環境的Function Hash code
             targetSha256:str = targetConfiguration["CodeSha256"]
-            #若兩環境的Hash Code不同，則代表該Function偵測到有新的版本
-            if originSha256 != targetSha256:
+            #檢測使用的Layer或其版本是否有差異
+            originLayerSet = set()
+            targetLayerSet = set()
+            for oLayer in originConfiguration["Layers"]:
+                originLayerSet.add(oLayer["Arn"])
+            for tLayer in targetConfiguration["Layers"]:
+                targetLayerSet.add(tLayer["Arn"])
+            LayerDiff = originLayerSet.symmetric_difference(targetLayerSet)
+            #若兩環境的Hash Code不同或Layer有差異，則代表該Function偵測到有新的版本
+            if originSha256 != targetSha256 or len(LayerDiff) > 0:
                 #加入回傳的List
                 resultList.append({"fName":fName,"originVersion":originConfiguration["Version"],"targetVersion":targetConfiguration["Version"]})
                 #print(fName+"'s "+ fQualifier[1]+ " enviroment" + " have update to version:" + updateResult["FunctionVersion"])
@@ -87,6 +95,7 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': json.dumps(resultList)
     }
+
 ```
 
 其中要注意，由於預設的Lambda Function執行時間只有3秒，但在Function數量很大量時，查詢時間絕對會超過3秒，因此要加大取得環境版本差異執行程式的執行時間，本次實驗專案執行時間為十分鐘。
