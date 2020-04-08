@@ -5,13 +5,13 @@ categories: [I.T.]
 date: 2020-04-10 00:00:00
 tags: [A.W.S,I.T.]
 ---
-使用AWS Aurora Serverless 服務作為後端資料庫時，成本節省，但該服務僅提供同一個位在AWS VPC內的裝置存取（[AWS官方文件](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html#aurora-serverless.limitations)），當在Local端進行開發，往往造成極大的不方便，若使用Aurora Serverless服務提供的EndPoint存取資料庫時，呈現的會是連不上的情形。如下圖所示
+使用AWS Aurora Serverless 服務作為後端資料庫時，成本節省，但該服務僅提供同一個位在AWS VPC內的裝置存取（[AWS官方文件](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless.html#aurora-serverless.limitations)），在這樣的條件下於Local端進行開發，往往造成極大的不方便，若使用Aurora Serverless服務提供的Endpoint存取資料庫時，呈現的會是連不上的情形。如下圖所示
 
 <!--more-->
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/1-ide-connect-fail.png)
 
-為解決上述Local端開發問題，讓地端的資料庫IDE（如Workbench）連結上Aurora Serverless做Debug，本篇文章介紹使用SSH Revere Tunnel連結，關於SSH Revere Tunnel介紹，將在後續提出。
+為解決上述Local端開發問題，本篇文章介紹，讓地端的資料庫IDE（如Workbench）連結上Aurora Serverless做Debug，使用SSH Revere Tunnel連結，關於SSH Revere Tunnel介紹，將在後續提出。
 
 P.S.在開始之前，您必須先確認您的AWS帳號是否有開設EC2的權限。
 
@@ -35,7 +35,7 @@ Add Storage可視其他需求而定，本範例中僅開設最小的8GB。
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/6-ec2-security-group.png)
 
-最後點選Launch，選擇您常用的SSH KEY供待會SSH Tunnel連入時使用，最後點選Launch Instances。
+最後點選Launch，選擇您適合的SSH KEY供待會SSH Tunnel連入時使用，最後點選Launch Instances。
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/7-ssh-key-console.png)
 
@@ -45,7 +45,7 @@ Add Storage可視其他需求而定，本範例中僅開設最小的8GB。
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/8-ec2-public-ip.png)
 
-接下來開啟您的AWS RDS Console，點選您的Aurora Serverless DB identifier，在Connectivity & security頁籤底下記錄您的Endpoint，待會在設定Reverse SSH Tunnel會用到，接著點選RDS的VPC security groups。
+接下來開啟您的AWS RDS Console，點選您的Aurora Serverless DB identifier，在Connectivity & security頁籤底下記錄您的Endpoint，待會在設定SSH Reverse Tunnel會用到，接著點選RDS的VPC security groups。
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/9-rds-endpoint.png)
 
@@ -53,7 +53,7 @@ Add Storage可視其他需求而定，本範例中僅開設最小的8GB。
 
 ![](/assets/2020-04-10-using-reverse-ssh-tunnel-connect-to-aurora-serverless/10-rds-security-group.png)
 
-接下來要在Local端設定Reverse SSH Tunnel，以Mac為例，首先打開您的TERMINAL視窗，輸入
+接下來要在Local端設定SSH Reverse Tunnel，以Mac為例，首先打開您的TERMINAL視窗，輸入
 
 ```script
 vi ~/.ssh/config
