@@ -112,6 +112,12 @@ Nimbus is a cloud computing system, which helps the enterprise monitor the emplo
 <span>Aug. 2017</span>
 </div>
 
+### Others
+<div style="justify-content: space-between;display: flex;">
+<span>・<a href="https://www.facebook.com/groups/219690655032977/">巧克力官能鑑定人員培訓班 / 台灣大學</a></span>
+<span>Nov. 2019</span>
+</div>
+
 <center><h1>Certificate</h1></center>
 <hr>
 ### Information
