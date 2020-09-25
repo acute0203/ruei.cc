@@ -18,7 +18,8 @@ permalink: /about/
 6. USDT 購買及支付平台規劃、開發及建置
 7. 專案管理及專案時程訂定、規劃
 8. 開發及維運人員管理
-9. I.T.架構規劃
+9. DevOps建置及流程規劃
+10. I.T.架構規劃
 <h2>
 <div style="justify-content: space-between;display: flex;">
 <span><b>Digital Marketing Manager </b></span><span>July. 2020 - now.</span>
@@ -38,7 +39,8 @@ permalink: /about/
 2. 開發人員管理
 3. 系統規劃計畫書製作及設計
 4. 需求訪談，釐清系統目標。
-5. 專案內容詳見 [Project](../projects/) 頁面
+5. DevOps建置及流程規劃
+6. 專案內容詳見 [Project](../projects/) 頁面
 <h2>
 <div style="justify-content: space-between;display: flex;">
 <span><b>B of D in Investment Corp.</b></span><span>Oct. 2017 - now.</span>

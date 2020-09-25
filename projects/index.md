@@ -5,8 +5,6 @@ excerpt: "A List of Projects"
 comments: false
 ---
 
-・WooPA FIT 數位行銷策略規劃
-
 ・WooPA FIT 官網、商城、教練系統規劃及建置
 
 ・財團法人台灣網路資訊中心惡意檔案檢測服務優化案
