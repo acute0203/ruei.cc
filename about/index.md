@@ -7,6 +7,40 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
+<span><b>Software Architect & I.T. Team Leader</b></span><span>May. 2019 - now.</span>
+</div>
+</h2>
+1. 外匯交易平台建置及維護
+2. CRM 規劃、開發及建置
+3. 外匯交易平台Utility開發及維護
+4. 外匯交易策略開發
+5. 官網規劃、開發及建置
+6. USDT 購買及支付平台規劃、開發及建置
+7. 專案管理及專案時程訂定、規劃
+8. 開發及維運人員管理
+9. I.T.架構規劃
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Digital Marketing Manager </b></span><span>July. 2020 - now.</span>
+</div>
+</h2>
+1. 官網規劃、開發及建置
+2. 商城規劃、開發及建置
+3. 教練委派系統規劃、開發及建置
+4. 數位行銷策略規劃
+5. 營運策略規劃
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Project Manager</b></span><span>July. 2018 - now.</span>
+</div>
+</h2>
+1. 專案管理及專案時程訂定、規劃
+2. 開發人員管理
+3. 系統規劃計畫書製作及設計
+4. 需求訪談，釐清系統目標。
+5. 專案內容詳見 [Project](../projects/) 頁面
+<h2>
+<div style="justify-content: space-between;display: flex;">
 <span><b>B of D in Investment Corp.</b></span><span>Oct. 2017 - now.</span>
 </div>
 </h2>
