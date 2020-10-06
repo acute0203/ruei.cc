@@ -90,6 +90,44 @@ Nimbus is a cloud computing system, which helps the enterprise monitor the emplo
 1. Designed and developed the client application, which collects and uploads the employee’s documents to server.
 2. Designed the database schema.
 
+<center><h1>Education</h1></center>
+<hr>
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>National Taipei University of Technology</b></span ><span class="notShowInPhone">Sep. 2016 - Jan. 2018</span>
+</div>
+</h2>
+
+Master of Information and Finance Management
+
+1. Led a team of undergraduates to complete an I.O.T graduation final project.
+2. Founded and mentored a deep learning and a machine learning study group.
+3. Graduate early with GPA 4.0, the first in major courses
+4. Spearheaded an automatic garage door project
+
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Institute for Information Industry</b></span ><span class="notShowInPhone">May. 2014 - Oct. 2014</span>
+</div>
+</h2>
+
+Class of Enterprise smart system design (Big data course)
+
+Big Data Course: Data mining techniques, Machine Learning, Business intelligence and Data Warehouse.
+
+Final Project: World Stock Index & Futures prediction by sentimental analysis
+
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>National Taipei University of Technology</b></span ><span class="notShowInPhone">Sep. 2005 - Jan. 2010</span>
+</div>
+</h2>
+
+Bachelor of Electronic Engineering
+
+Relevant Coursework: Understand the basic structure of programming languages. Assembly Language Lab. Object-oriented Programming. Data Structures. Compilers. Database Systems. Programming Languages
+
+
 <center><h1>Courses</h1></center>
 <hr>
 ## A.I.
