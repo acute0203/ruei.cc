@@ -17,16 +17,16 @@ permalink: /about/
 <span><b>Software Architect & I.T. Team Leader</b></span ><span class="notShowInPhone">May. 2019 - now.</span>
 </div>
 </h2>
-1. 外匯交易平台建置及維護
-2. CRM 規劃、開發及建置
-3. 外匯交易平台Utility開發及維護
-4. 外匯交易策略開發
-5. 官網規劃、開發及建置
-6. USDT 購買及支付平台規劃、開發及建置
-7. 專案管理及專案時程訂定、規劃
-8. 開發及維運人員管理
-9. DevOps建置及流程規劃
-10. I.T.架構規劃
+<!--1. 交易平台建置及維護-->
+1. 服務平台規劃、開發及建置
+<!--2. 交易平台Utility開發及維護-->
+<!--3. 交易策略開發-->
+2. 官網規劃、開發及建置
+3. USDT 購買及支付平台規劃、開發及建置
+4. 專案管理及專案時程訂定、規劃
+5. 開發及維運人員管理
+6. DevOps建置及流程規劃
+7. I.T.架構規劃
 <h2>
 <div style="justify-content: space-between;display: flex;">
 <span><b>Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
