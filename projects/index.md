@@ -25,17 +25,17 @@ comments: false
 
 ・文化部 - 電影、電視劇內容評等機制建置計畫
 
-・MetaTrader4、MetaTrader5災害恢復流程訂定及演練
+<!--・MetaTrader4、MetaTrader5災害恢復流程訂定及演練-->
 
 ・USDT支付及購幣平台建置
 
-・MetaTrader4、MetaTrader5系統建置維運
+<!--・MetaTrader4、MetaTrader5系統建置維運-->
 
-・MetaTrader Utility開發
+<!--・MetaTrader Utility開發-->
 
-・外匯交易商CRM系統建置
+<!--・外匯交易商CRM系統建置-->
 
-・外匯交易商官網建置及遷移
+<!--・外匯交易商官網建置及遷移-->
 
 ・World Stock Index & Futures prediction by sentimental analysis.
 
