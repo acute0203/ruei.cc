@@ -5,6 +5,10 @@ excerpt: "A List of Projects"
 comments: false
 ---
 
+・沐光 官網、按摩履歷系統規劃及建置
+
+・臺中市政府警察局刑案證物搜扣數位履歷系統
+
 ・WooPA FIT 官網、商城、教練系統規劃及建置
 
 ・財團法人台灣網路資訊中心惡意檔案檢測服務優化案
@@ -25,17 +29,17 @@ comments: false
 
 ・文化部 - 電影、電視劇內容評等機制建置計畫
 
-<!--・MetaTrader4、MetaTrader5災害恢復流程訂定及演練-->
+・MetaTrader4、MetaTrader5災害恢復流程訂定及演練
 
 ・USDT支付及購幣平台建置
 
-<!--・MetaTrader4、MetaTrader5系統建置維運-->
+・MetaTrader4、MetaTrader5系統建置維運
 
-<!--・MetaTrader Utility開發-->
+・MetaTrader Utility開發
 
-<!--・外匯交易商CRM系統建置-->
+・外匯交易商CRM系統建置
 
-<!--・外匯交易商官網建置及遷移-->
+・外匯交易商官網建置及遷移
 
 ・World Stock Index & Futures prediction by sentimental analysis.
 
