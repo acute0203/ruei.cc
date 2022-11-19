@@ -14,7 +14,7 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Maio Digital(麥點數位科技) - Founder</b></span ><span class="notShowInPhone">May. 2021 - Now</span>
+<span><b>Maio Digital(麥點數位科技) - Founder</b></span ><span class="notShowInPhone">May. 2021 - now.</span>
 </div>
 </h2>
 1. I.T.架構規劃
@@ -27,7 +27,7 @@ permalink: /about/
 8. I.T/ A.I.講師
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Walnutek(核果智能) - Cofounder</b></span ><span class="notShowInPhone">Oct. 2022 - Now</span>
+<span><b>Walnutek(核果智能) - Cofounder</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
 </div>
 </h2>
 1. I.T.架構規劃
@@ -39,7 +39,7 @@ permalink: /about/
 7. I.T/ A.I.講師
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Institute for Information Industry(資策會) - Technical consultant</b></span ><span class="notShowInPhone">Oct. 2022 - Now</span>
+<span><b>Institute for Information Industry(資策會) - Technical consultant</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
 </div>
 </h2>
 1. Web3.0架構規劃
@@ -184,9 +184,6 @@ Relevant Coursework: Understand the basic structure of programming languages. As
 <span>・後端及伺服器架設 / 工研院</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・MongoDB / 臺北科技大學 資訊與財金管理系</span>
-</div>
-<div style="justify-content: space-between;display: flex;">
 <span>・智能合約與DApp開發應用 / 資策會企業內訓(軟體技術研究院)</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
@@ -215,6 +212,9 @@ Relevant Coursework: Understand the basic structure of programming languages. As
 </div>
 <div style="justify-content: space-between;display: flex;">
 <span>・深度學習與物件偵測 / 臺北科技大學 資訊與財金管理所</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・MongoDB / 臺北科技大學 資訊與財金管理系</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
 <span>・A.I.未來世界創作坊(物件偵測) / INTEL</span>
