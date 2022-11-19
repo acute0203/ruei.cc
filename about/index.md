@@ -14,9 +14,10 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Maio Digital(麥點數位科技) - Founder</b></span ><span class="notShowInPhone">May. 2021 - now.</span>
+<span><b>Maio Digital-Founder</b></span ><span class="notShowInPhone">May. 2021 - now.</span>
 </div>
 </h2>
+ - 麥點數位科技
 1. I.T.架構規劃
 2. I.T.技術顧問
 3. I.T.技術開發
@@ -27,9 +28,10 @@ permalink: /about/
 8. I.T/ A.I.講師
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Walnutek(核果智能) - Cofounder</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
+<span><b>Walnutek-Cofounder</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
 </div>
 </h2>
+ - 核果智能科技
 1. I.T.架構規劃
 2. I.T.技術顧問
 3. I.T.技術開發
@@ -39,17 +41,19 @@ permalink: /about/
 7. I.T/ A.I.講師
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Institute for Information Industry(資策會) - Technical consultant</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
+<span><b>Institute for Information Industry-Technical consultant</b></span ><span class="notShowInPhone">Oct. 2022 - now.</span>
 </div>
 </h2>
+ - 財團法人資訊工業策進會
 1. Web3.0架構規劃
 2. Web3.0技術諮詢
 3. Web3.0技術開發
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
+<span><b>WooPA-Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
 </div>
 </h2>
+ - 彼立恩
 1. 官網規劃、開發及建置
 2. 商城規劃、開發及建置
 3. 教練委派系統規劃、開發及建置
@@ -60,6 +64,7 @@ permalink: /about/
 <span><b>Project Manager</b></span><span class="notShowInPhone">July. 2018 - now.</span>
 </div>
 </h2>
+ - 歐斯資訊
 1. 專案管理及專案時程訂定、規劃
 2. 開發人員管理
 3. 系統規劃計畫書製作及設計
