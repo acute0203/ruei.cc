@@ -45,6 +45,7 @@ permalink: /about/
 1. Web3.0架構規劃
 2. Web3.0技術諮詢
 3. Web3.0技術開發
+<h2>
 <div style="justify-content: space-between;display: flex;">
 <span><b>Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
 </div>
@@ -166,7 +167,6 @@ Relevant Coursework: Understand the basic structure of programming languages. As
 </div>
 <div style="justify-content: space-between;display: flex;">
 <span>・A.I.深度學習 / 工研院</span>
-</div>
 </div>
 <div style="justify-content: space-between;display: flex;">
 <span>・輿情分析 / 工研院</span>
