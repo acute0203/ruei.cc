@@ -14,7 +14,7 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Maio Digital-Founder</b></span ><span class="notShowInPhone">May. 2021 - now.</span>
+<span><b>Maio Digital - Founder</b></span ><span class="notShowInPhone">May. 2021 - now.</span>
 </div>
 </h2>
  - 麥點數位科技
@@ -50,7 +50,7 @@ permalink: /about/
 3. Web3.0技術開發
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>WooPA-Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
+<span><b>WooPA Fit-Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
 </div>
 </h2>
  - 彼立恩
@@ -61,7 +61,7 @@ permalink: /about/
 5. 營運策略規劃
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Project Manager</b></span><span class="notShowInPhone">July. 2018 - now.</span>
+<span><b>Ousi-Project Manager</b></span><span class="notShowInPhone">July. 2018 - now.</span>
 </div>
 </h2>
  - 歐斯資訊
