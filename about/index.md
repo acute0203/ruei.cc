@@ -184,7 +184,7 @@ Relevant Coursework: Understand the basic structure of programming languages. As
 <span>・後端及伺服器架設 / 工研院</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
-<span>・智能合約與DApp開發應用 / 資策會企業內訓(軟體技術研究院)</span>
+<span>・智能合約與DApp開發應用(資策會企業內訓) / 軟體技術研究院</span>
 </div>
 <div style="justify-content: space-between;display: flex;">
 <span>・AZURE認知服務 / 商研院</span>
