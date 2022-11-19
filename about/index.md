@@ -14,20 +14,37 @@ permalink: /about/
 <hr>
 <h2>
 <div style="justify-content: space-between;display: flex;">
-<span><b>Software Architect & I.T. Team Leader</b></span ><span class="notShowInPhone">May. 2019 - now.</span>
+<span><b>Maio Digital(麥點數位科技) - Founder</b></span ><span class="notShowInPhone">May. 2021 - Now</span>
 </div>
 </h2>
-<!--1. 交易平台建置及維護-->
-1. 服務平台規劃、開發及建置
-<!--2. 交易平台Utility開發及維護-->
-<!--3. 交易策略開發-->
-2. 官網規劃、開發及建置
-3. USDT 購買及支付平台規劃、開發及建置
-4. 專案管理及專案時程訂定、規劃
-5. 開發及維運人員管理
-6. DevOps建置及流程規劃
-7. I.T.架構規劃
+1. I.T.架構規劃
+2. I.T.技術顧問
+3. I.T.技術開發
+4. A.I.技術顧問
+5. Web3.0 技術顧問
+6. 專案管理
+7. 商業諮詢
+8. I.T/ A.I.講師
 <h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Walnutek(核果智能) - Cofounder</b></span ><span class="notShowInPhone">Oct. 2022 - Now</span>
+</div>
+</h2>
+1. I.T.架構規劃
+2. I.T.技術顧問
+3. I.T.技術開發
+4. A.I.技術顧問
+5. Web3.0 技術顧問
+6. 專案管理
+7. I.T/ A.I.講師
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Institute for Information Industry(資策會) - Technical consultant</b></span ><span class="notShowInPhone">Oct. 2022 - Now</span>
+</div>
+</h2>
+1. Web3.0架構規劃
+2. Web3.0技術諮詢
+3. Web3.0技術開發
 <div style="justify-content: space-between;display: flex;">
 <span><b>Digital Marketing Manager </b></span><span class="notShowInPhone">July. 2020 - now.</span>
 </div>
@@ -58,6 +75,21 @@ permalink: /about/
 3. Worked with clients on strategy, planning and problem-solving.
 4. Communicating with stockholders.
 5. Financial reports analysis.
+<h2>
+<div style="justify-content: space-between;display: flex;">
+<span><b>Software Architect & I.T. Team Leader</b></span ><span class="notShowInPhone">May. 2019 - May. 2021</span>
+</div>
+</h2>
+1. 交易平台建置及維護
+2. 服務平台規劃、開發及建置
+3. 交易平台Utility開發及維護
+4. 交易策略開發
+5. 官網規劃、開發及建置
+6. USDT 購買及支付平台規劃、開發及建置
+7. 專案管理及專案時程訂定、規劃
+8. 開發及維運人員管理
+9. DevOps建置及流程規劃
+10. I.T.架構規劃
 <h2>
 <div style="justify-content: space-between;display: flex;">
 <span><b>Technical Cofounder</b></span><span class="notShowInPhone">Jan. 2018 - April. 2019</span>
@@ -127,7 +159,66 @@ Bachelor of Electronic Engineering
 
 Relevant Coursework: Understand the basic structure of programming languages. Assembly Language Lab. Object-oriented Programming. Data Structures. Compilers. Database Systems. Programming Languages
 
-
+<center><h1>Instructor Experience</h1></center>
+<hr>
+<div style="justify-content: space-between;display: flex;">
+<span>・Line Chat Bot / 緯育Tibame</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・A.I.深度學習 / 工研院</span>
+</div>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・輿情分析 / 工研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・區塊鏈及智能合約 / 工研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・Line Chat Bot / 工研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・爬蟲及資料擷取 / 工研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・後端及伺服器架設 / 工研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・MongoDB / 臺北科技大學 資訊與財金管理系</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・智能合約與DApp開發應用 / 資策會企業內訓(軟體技術研究院)</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・AZURE認知服務 / 商研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・MongoDB / 商研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・Python / 商研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・區塊鏈及智能合約 / 商研院</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・區塊鏈狂潮來襲 / 新北市政府經發局工策會</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・區塊鏈與物聯網狂潮來襲 / 新北市政府經發局工策會</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・車聯網新未來的多元應用 / 新北市企業產經大學</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・區塊鏈技術整合的發展方向 / 新北市企業產經大學</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・深度學習與物件偵測 / 臺北科技大學 資訊與財金管理所</span>
+</div>
+<div style="justify-content: space-between;display: flex;">
+<span>・A.I.未來世界創作坊(物件偵測) / INTEL</span>
+</div>
 <center><h1>Courses</h1></center>
 <hr>
 ## A.I.
@@ -201,6 +292,11 @@ Relevant Coursework: Understand the basic structure of programming languages. As
 
 <center><h1>Certificate</h1></center>
 <hr>
+### Management
+<div style="justify-content: space-between;display: flex;">
+<span>・<a href="https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster">Certified Scrum Master / Scrum Alliance</a></span>
+<span class="notShowInPhone">Sep. 2022</span>
+</div>
 ### Information
 <div style="justify-content: space-between;display: flex;">
 <span>・<a href="https://support.google.com/google-ads/answer/9702955?hl=en">Google Ads certification / Google</a></span>
